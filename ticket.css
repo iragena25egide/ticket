@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+margin: 60px;
+}
+li{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin: 30px;
+    cursor: pointer;
+    list-style: none;
+}
+#price{
+    font-family: 'loto',sans-serif;
+    font-size: 16px;
+}
